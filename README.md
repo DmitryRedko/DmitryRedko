@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="baner.png" alt="Machine Learning | AI | Data Science" width="100%">
+  <img src="banner.png" alt="Machine Learning | AI | Data Science" width="100%">
 </p>
 
 <div align="center">
