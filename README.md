@@ -49,12 +49,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryRedko&theme=github_dark" alt="Profile Details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryRedko&theme=graywhite" alt="Profile Details"/>
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryRedko&theme=github_dark" alt="Top Languages"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryRedko&theme=github_dark" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryRedko&theme=graywhite" alt="Top Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryRedko&theme=graywhite" alt="Stats"/>
 </div>
 
 
@@ -62,19 +62,19 @@
 
 <p align="center">
   <a href="https://github.com/DmitryRedko/3DViewer_v1.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryRedko&repo=3DViewer_v1.0&theme=github_dark" alt="3DViewer_v1.0"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryRedko&repo=3DViewer_v1.0&theme=graywhite" alt="3DViewer_v1.0"/>
   </a>
   <a href="https://github.com/DmitryRedko/Tiny-LLaMa-swichback-int8-acceleration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryRedko&repo=Tiny-LLaMa-swichback-int8-acceleration&theme=github_dark" alt="Tiny-LLaMa-swichback-int8-acceleration"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryRedko&repo=Tiny-LLaMa-swichback-int8-acceleration&theme=graywhite" alt="Tiny-LLaMa-swichback-int8-acceleration"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/On-Point-RND/MemoryEfficientSRS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=On-Point-RND&repo=MemoryEfficientSRS&theme=github_dark" alt="MemoryEfficientSRS"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=On-Point-RND&repo=MemoryEfficientSRS&theme=graywhite" alt="MemoryEfficientSRS"/>
   </a>
   <a href="https://github.com/On-Point-RND/Seminars-Cuda-and-Triton">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=On-Point-RND&repo=Seminars-Cuda-and-Triton&theme=github_dark" alt="Seminars-Cuda-and-Triton"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=On-Point-RND&repo=Seminars-Cuda-and-Triton&theme=graywhite" alt="Seminars-Cuda-and-Triton"/>
   </a>
 </p>
 
