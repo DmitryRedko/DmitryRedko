@@ -6,8 +6,6 @@
 <div align="center">
   <h1>👋 Hi! I'm Dmitry Redko</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=DC143C&center=true&width=500&lines=Research+Engineer+%40+Skoltech" alt="Typing Role 1" />
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CED1&center=true&width=500&lines=ML+Developer+%40+Norilsk+Nickel" alt="Typing Role 2" />
 </div>
 
