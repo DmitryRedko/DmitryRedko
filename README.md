@@ -62,8 +62,8 @@
   <a href="https://github.com/DmitryRedko/3DViewer_v1.0">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryRedko&repo=3DViewer_v1.0&theme=graywhite" alt="3DViewer_v1.0"/>
   </a>
-  <a href="https://github.com/DmitryRedko/Tiny-LLaMa-swichback-int8-acceleration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryRedko&repo=Tiny-LLaMa-swichback-int8-acceleration&theme=graywhite" alt="Tiny-LLaMa-swichback-int8-acceleration"/>
+  <a href="https://github.com/DmitryRedko/AI_guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryRedko&repo=AI_guide&theme=graywhite" alt="Tiny-LLaMa-swichback-int8-acceleration"/>
   </a>
 </p>
 
