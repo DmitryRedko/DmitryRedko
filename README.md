@@ -16,7 +16,7 @@
   <a href="mailto:dmitryredko444@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1lQQNqBhkSPOG4-mkBCBYG_Cywl9wQr0x/view?usp=sharing">
+  <a href="https://drive.google.com/drive/folders/1pyDQwDt0Bi4G07biPIrnWpeGCDa8glOk?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
